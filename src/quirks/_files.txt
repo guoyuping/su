@@ -1,0 +1,3 @@
+F:\ts\sunew\src\quirks\ensure_proper_clearing.ts
+F:\ts\sunew\src\quirks\get_correct_inner_html.ts
+F:\ts\sunew\src\quirks\redraw.ts
